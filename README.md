@@ -17,4 +17,5 @@ in all seriousness, this thing sux a lot for anything more practical than "somet
 
 ## References
 [TGAM1 Spec Sheet](https://cdn.sparkfun.com/datasheets/Sensors/Biometric/tgam1.pdf)
+
 [ThinkGear Serial Stream Guide](https://developer.neurosky.com/docs/doku.php?id=thinkgear_communications_protocol)
